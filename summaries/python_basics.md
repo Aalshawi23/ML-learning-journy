@@ -11,7 +11,7 @@ This summary covers key concepts from the Python crash course section in the "Py
 - Tuples
 - Sets
 - Comparison Operators
-- `if`, `elif`, `else` statements
+- `if`,`elif`, `else` statements
 
 - For Loops
 - While Loops
