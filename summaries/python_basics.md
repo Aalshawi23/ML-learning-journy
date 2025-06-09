@@ -13,14 +13,14 @@ This summary covers key concepts from the Python crash course section in the "Py
 - Comparison Operators
 - `if`, `elif`, `else` statements
 
--for Loops
--while Loops
--range()
--list comprehension
--functions
--lambda expressions
--map and filter
--methods
+- For Loops
+- While Loops
+- range()
+- List comprehension
+- Functions
+- Lambda expressions
+- Map and filter
+- Methods
 
 ## 📘 Notes & Examples
 
