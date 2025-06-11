@@ -32,6 +32,18 @@ my_dict = {'a': 1, 'b': 2}
 - `tuple = (a, b)` → Immutable
 - `if/elif/else` → Used for control flow
 - `and`, `or`, `not` → Boolean logic
+
+
+### 🔁 For Loops
+- Used to iterate through a sequence (like lists, tuples, strings, etc.)
+
+```python
  
+seq = [1, 2, 3, 4, 5]
+for num in seq:
+    print(num)
+- 💡 Use meaningful variable names in your loops.
+
+
 
 
